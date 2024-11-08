@@ -19,6 +19,8 @@ function App() {
       <Blog />
       <Footer />
     </div>
+
+    // 2:11
   )
 }
 
